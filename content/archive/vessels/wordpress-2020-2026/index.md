@@ -1,0 +1,53 @@
+Title: WordPress Edition Vessel & Regional Overview Pages (2020–2026)
+Date: 2026-05-12
+Slug: archive/vessels/wordpress-2020-2026
+Save_as: archive/vessels/wordpress-2020-2026/index.html
+URL: archive/vessels/wordpress-2020-2026/index.html
+Template: page
+
+[&larr; Back to Master Vessels Register]({filename}/archive/vessels/index.md)
+
+All **42** vessel overview pages and Essential Grid entries captured from the post-2020 WordPress edition of `heritageboatassociation.ie`.
+
+- **[Bolinder Engine and the Grand Canal Company – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/bolinder-engine-and-the-grand-canal-company/index.md)** (`/bolinder-engine-and-the-grand-canal-company/`)
+- **[Little Knocknagow – Steam Tug – Lanarkshire c1890 – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-3977/index.md)** (`/essential_grid/3977/`)
+- **[Coill an Eo – Maintenance Barge – Dublin 1969 – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-3982/index.md)** (`/essential_grid/3982/`)
+- **[41M – GCC Canal Boat – Dublin 1927 – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-41m-gcc-canal-boat-dublin-1927/index.md)** (`/essential_grid/41m-gcc-canal-boat-dublin-1927/`)
+- **[4B – Bye Trader – Portadown 1912 – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-4b-bye-trader-portadown-1912/index.md)** (`/essential_grid/4b-bye-trader-portadown-1912/`)
+- **[77M – GCC Canal Boat – Dublin 1937 – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-77m-gcc-canal-boat-dublin-1937/index.md)** (`/essential_grid/77m-gcc-canal-boat-dublin-1937/`)
+- **[79M – GCC Canal Boat – Dublin 1939 – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-79m-gcc-canal-boat-dublin-1939/index.md)** (`/essential_grid/79m-gcc-canal-boat-dublin-1939/`)
+- **[Barges, Boats & Bridges – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-barges-boats-bridges/index.md)** (`/essential_grid/barges-boats-bridges/`)
+- **[Bolinder display units – Feb 2011 – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-bolinder-display-units-feb-2011/index.md)** (`/essential_grid/bolinder-display-units-feb-2011/`)
+- **[Bona Spes Sailing Tjalk 1908 – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-bona-spes-sailing-tjalk-1908/index.md)** (`/essential_grid/bona-spes-sailing-tjalk-1908/`)
+- **[Burscough II (Black Prince) – Leeds & Liverpool Barge – Northwich – 1933 – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-burscough-ii-black-prince-leeds-liverpool-barge-northwich-1933/index.md)** (`/essential_grid/burscough-ii-black-prince-leeds-liverpool-barge-northwich-1933/`)
+- **[Enterprize – Lagan Lighter – Portadown c1890 – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-enterprize-lagan-lighter-portadown-c1890/index.md)** (`/essential_grid/enterprize-lagan-lighter-portadown-c1890/`)
+- **[Float No. 15 and 16 – Royal Canal – late 1800s (remains) – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-float-no-15-and-16-royal-canal-late-1800s-remains/index.md)** (`/essential_grid/float-no-15-and-16-royal-canal-late-1800s-remains/`)
+- **[Float No. 3 – Royal Canal – late 1800’s – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-float-no-3-royal-canal-late-1800s/index.md)** (`/essential_grid/float-no-3-royal-canal-late-1800s/`)
+- **[All – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-category-all/index.md)** (`/essential_grid_category/all/`)
+- **[Barges, Boats & Bridges – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-category-barges-boats-bridges/index.md)** (`/essential_grid_category/barges-boats-bridges/`)
+- **[Boat Photos – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-category-boat-photos/index.md)** (`/essential_grid_category/boat-photos/`)
+- **[Boatyards, Boatbuilders and Engines – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-category-boatyards-boatbuilders-and-engines/index.md)** (`/essential_grid_category/boatyards-boatbuilders-and-engines/`)
+- **[Bye-Trader Boats – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-category-bye-trader-boats/index.md)** (`/essential_grid_category/bye-trader-boats/`)
+- **[Dutch Motor and Sailing Barges – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-category-dutch-motor-and-sailing-barges/index.md)** (`/essential_grid_category/dutch-motor-and-sailing-barges/`)
+- **[Grand Canal Boats – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-category-grand-canal-boats/index.md)** (`/essential_grid_category/grand-canal-boats/`)
+- **[Horse Boats – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-category-horse-boats/index.md)** (`/essential_grid_category/horse-boats/`)
+- **[Modern Barges and Boats – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-category-modern-barges-and-boats/index.md)** (`/essential_grid_category/modern-barges-and-boats/`)
+- **[Other Vessels – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-category-other-vessels/index.md)** (`/essential_grid_category/other-vessels/`)
+- **[Royal Canal Floats – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-category-royal-canal-floats/index.md)** (`/essential_grid_category/royal-canal-floats/`)
+- **[Steam Boats – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/essential-grid-category-steam-boats/index.md)** (`/essential_grid_category/steam-boats/`)
+- **[Vessels – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/features-vessels/index.md)** (`/features/vessels/`)
+- **[UK Vessels – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/uk-vessels/index.md)** (`/uk-vessels/`)
+- **[Vessels – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/vessels/index.md)** (`/vessels/`)
+- **[Bye-Trader Boats – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/vessels-bye-trader-boats/index.md)** (`/vessels/bye-trader-boats/`)
+- **[Dutch Vessels – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/vessels-dutch-vessels/index.md)** (`/vessels/dutch-vessels/`)
+- **[Grand Canal Company M-Boats – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/vessels-grand-canal-m-boats/index.md)** (`/vessels/grand-canal-m-boats/`)
+- **[Grand Canal – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/vessels-grand-canal/index.md)** (`/vessels/grand-canal/`)
+- **[Horse Boats – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/vessels-horse-boats/index.md)** (`/vessels/horse-boats/`)
+- **[Lighters – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/vessels-lighters/index.md)** (`/vessels/lighters/`)
+- **[Lough Neagh & The canals of Ulster – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/vessels-lough-neagh-the-canals-of-ulster/index.md)** (`/vessels/lough-neagh-the-canals-of-ulster/`)
+- **[River Barrow – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/vessels-river-barrow/index.md)** (`/vessels/river-barrow/`)
+- **[River Liffey – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/vessels-river-liffey/index.md)** (`/vessels/river-liffey/`)
+- **[River Shannon – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/vessels-river-shannon/index.md)** (`/vessels/river-shannon/`)
+- **[Royal Canal Boats – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/vessels-royal-canal-boats/index.md)** (`/vessels/royal-canal-boats/`)
+- **[Royal Canal – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/vessels-royal-canal/index.md)** (`/vessels/royal-canal/`)
+- **[Steam Boats – Heritage Boat Association]({filename}/archive/vessels/wordpress-2020-2026/vessels-steam-boats/index.md)** (`/vessels/steam-boats/`)

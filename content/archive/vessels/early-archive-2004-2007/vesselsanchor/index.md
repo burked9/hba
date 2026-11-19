@@ -1,0 +1,13 @@
+Title: vesselsAnchor - HERITAGE BOAT ASSOCIATION (2004–2007 Early Archive)
+Date: 2006-01-01
+Slug: archive/vessels/early-archive-2004-2007/vesselsanchor
+Save_as: archive/vessels/early-archive-2004-2007/vesselsanchor/index.html
+URL: archive/vessels/early-archive-2004-2007/vesselsanchor/index.html
+Template: page
+
+> **Archival Note:** This page was preserved from the early static HTML edition of `heritageboatassociation.ie` (2004–2007 era, original file: `vesselsAnchor.htm`).
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | **HERITAGE  BOAT  ASSOCIATION**  **"Celebrating Ireland's Floating Heritage"**   |  |  |  |  |  | | --- | --- | --- | --- | --- | |  |  |  |  |  | |
+|  | |  |  | | --- | --- | | **History Of 'Motorwestlander 41’** - **"Anchor"**        Back to [Vessels](vesselb.htm) | | |  |  | |  | **Length: 12.6m (41’)**  **Beam: 2.85m (8’ 6")**  **Draft: 66cm (2’ 3")** **Year Built: Pre 1918** | | 15th September 2006: Anchor FOR SALE, [click here](http://www.apolloduck.ie/feature.phtml?id=46757)  to see Apollo Duck website listing.  Anchor, a Dutch Westlander (build c1920) is ideal barge for the Irish Inland Waterways. She has traveled the whole system (Waterford to Belleek). Is suitable as a holiday boat or as a live aboard. 4 (+2) berths (1 fixed double, 2 singles (+2 extras). Ebersbacher Central Heating, Hot Water, Shower & WC, Hob, Oven, Fridge. Galley & bathroom refitted 2006. Inverter, Shore Power, Solar Panel. Very dry boat. The large windows offer fantastic views and make it a bright and airy boat. Full survey 2005.  General Info: ‘Anchor’ is a Motorwestlander 41’ and was imported from Holland in 2004. She was built pre World War I as a sailing barge with a mast, sails and lee-boards and later converted to Motor power. As well as being powered by sail she would have been pulled by a horse or even poled along by a barge pole. The superstructure was added in the 1970’s, changing her into a pleasure craft.  Westlanders were designed for drainage canals in the Westland region of Holland, around Rotterdam, Hook van Holland and up as far as Amsterdam. Because these drainage canals were shallow and narrow the beam of the boats were usually 2.5metres or less and the fully laden draft could not draw more than 1 metre of water. These barges spent most of their working life transporting sand, gravel, tulips, manure, cheese, potatoes, live stock and even people. Westlanders have a distinctive square stempost (bow). Any Westlanders built after the 1920’s were built with engines and have a much pointier bow.  She is based in Athy and is an ideal boat for both the River Barrow and the Canals as her draft is very shallow.  © Cliff & Eunice Jeffers | | |

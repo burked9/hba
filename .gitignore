@@ -1,0 +1,11 @@
+output/
+__pycache__/
+venv/
+.DS_Store
+*.pyc
+cache/
+*.pid
+raw_brochures/
+output_public/
+handover.html
+

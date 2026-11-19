@@ -1,0 +1,222 @@
+{% extends "base.html" %}
+
+{% block content %}
+<style>
+/* Full width override for the homepage */
+main {
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Hero Section */
+.hero-section {
+    position: relative;
+    width: 100%;
+    min-height: 75vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: transparent;
+    padding: 60px 20px;
+}
+
+.hero-content {
+    max-width: 960px;
+    margin: 0 auto;
+    z-index: 2;
+}
+
+.hero-avatar img {
+    max-width: 280px;
+    border-radius: 10px;
+    box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+    margin-bottom: 20px;
+}
+
+.hero-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #111;
+    margin-bottom: 20px;
+}
+
+.hero-subtitle {
+    font-size: 1.2rem;
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 40px;
+}
+
+/* 4-Widget Archive Row */
+.archive-widget-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.widget-card {
+    flex: 1 1 200px;
+    background: #fff;
+    border: 1px solid #eaeaea;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    text-decoration: none !important;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+}
+
+.widget-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+}
+
+.widget-card img {
+    width: 100%;
+    height: 140px;
+    object-fit: cover;
+    border-bottom: 1px solid #eaeaea;
+}
+
+.widget-content {
+    padding: 15px;
+    text-align: center;
+}
+
+.widget-content h3 {
+    margin: 0 0 5px 0;
+    font-size: 1.2rem;
+    color: #222;
+}
+.widget-content p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: #666;
+}
+
+/* Vintage Vessels Roll-Call Table Section */
+.vessels-register-section {
+    width: 100%;
+    background-color: #fcf9f2;
+    padding: 80px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top: 2px solid #eaddcf;
+}
+.vintage-title {
+    font-family: "Georgia", serif;
+    font-size: 2.5rem;
+    color: #4a3f35;
+    margin-bottom: 30px;
+    text-align: center;
+    font-style: italic;
+    border-bottom: 1px solid #d4c4b7;
+    padding-bottom: 10px;
+}
+.vintage-table-container {
+    width: 100%;
+    max-width: 980px;
+    max-height: 550px;
+    overflow-y: auto;
+    border: 1px solid #d4c4b7;
+    border-radius: 4px;
+    background: #fffdf9;
+    box-shadow: inset 0 0 20px rgba(139, 115, 85, 0.1);
+    padding: 20px;
+    scrollbar-width: thin;
+    scrollbar-color: #d4c4b7 #fffdf9;
+}
+.vintage-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: "Georgia", serif;
+    color: #5c4d40;
+    font-size: 1.05rem;
+}
+.vintage-table th {
+    text-align: left;
+    padding: 12px 8px;
+    border-bottom: 2px solid #d4c4b7;
+    font-weight: bold;
+    color: #3b3129;
+    position: sticky;
+    top: -20px;
+    background: #fffdf9;
+}
+.vintage-table td {
+    padding: 10px 8px;
+    border-bottom: 1px dashed #eaddcf;
+}
+.vintage-table tr:hover td {
+    background-color: #f7f0e6;
+}
+</style>
+
+<section class="hero-section">
+    <div class="hero-content">
+        <div class="hero-avatar">
+            <img src="{{ SITEURL }}/images/vessels/b-barge-line-up-2003.jpg" alt="Heritage Boat Association Barge Line Up">
+        </div>
+        <h1 class="hero-title">The Heritage Boat Association Archive</h1>
+        <p class="hero-subtitle">
+            Protecting, promoting, and celebrating the floating heritage of the inland waterways of Ireland. Explore the complete historical register of Grand Canal M-Boats, Bye-Traders, Royal Canal Floats, Steamers, and Horse Boats.
+        </p>
+        
+        <div class="archive-widget-row">
+            <!-- Grand Canal Boats Widget -->
+            <a href="{{ SITEURL }}/archive/vessels/grand-canal-boats/index.html" class="widget-card">
+                <img src="{{ SITEURL }}/images/vessels/b-72m.jpg" alt="Grand Canal Boats">
+                <div class="widget-content">
+                    <h3>Grand Canal Boats</h3>
+                    <p>41 Historic M-Boats</p>
+                </div>
+            </a>
+
+            <!-- Bye-Trader & Horse Boats Widget -->
+            <a href="{{ SITEURL }}/archive/vessels/bye-trader-boats/index.html" class="widget-card">
+                <img src="{{ SITEURL }}/images/vessels/34b.jpg" alt="Bye-Trader Boats">
+                <div class="widget-content">
+                    <h3>Bye-Trader Boats</h3>
+                    <p>Trading &amp; Hack Boats</p>
+                </div>
+            </a>
+
+            <!-- Steam & Royal Canal Floats Widget -->
+            <a href="{{ SITEURL }}/archive/vessels/steam-boats/index.html" class="widget-card">
+                <img src="{{ SITEURL }}/images/vessels/15and16.jpg" alt="Steam Boats & Floats">
+                <div class="widget-content">
+                    <h3>Steam &amp; Floats</h3>
+                    <p>Steamers, Tugs &amp; Lighters</p>
+                </div>
+            </a>
+
+            <!-- Full Vessels Register Widget -->
+            <a href="{{ SITEURL }}/archive/vessels/index.html" class="widget-card">
+                <img src="{{ SITEURL }}/images/vessels/61m.jpg" alt="All Vessels">
+                <div class="widget-content">
+                    <h3>All 11 Categories</h3>
+                    <p>Complete Vessels Register</p>
+                </div>
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- Roll Call of Heritage Vessels Section -->
+<section class="vessels-register-section">
+    <h2 class="vintage-title">The Roll Call of Heritage Vessels (105 Entries)</h2>
+    <div class="vintage-table-container">
+        {% include 'vessels_table.html' %}
+    </div>
+</section>
+{% endblock %}

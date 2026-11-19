@@ -1,0 +1,13 @@
+Title: vessels45M - HERITAGE BOAT ASSOCIATION (2004–2007 Early Archive)
+Date: 2006-01-01
+Slug: archive/vessels/early-archive-2004-2007/vessels45m
+Save_as: archive/vessels/early-archive-2004-2007/vessels45m/index.html
+URL: archive/vessels/early-archive-2004-2007/vessels45m/index.html
+Template: page
+
+> **Archival Note:** This page was preserved from the early static HTML edition of `heritageboatassociation.ie` (2004–2007 era, original file: `vessels45M.htm`).
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | **HERITAGE  BOAT  ASSOCIATION**  **"Celebrating Ireland's Floating Heritage"**   |  |  |  |  |  | | --- | --- | --- | --- | --- | |  |  |  |  |  | |
+|  | |  |  | | --- | --- | | **Sinking of 45M**      Back to [Vessels](vesselb.htm) | | |  | **[Click here](vessels45Mraisingweatherandsalebill.htm) to view 45M Weather Report on Day of Sinking, Plan for Raising 45M and Bill of Sale from CIE** | | Life on a working Barge had its dangers and there were quite a few accidents, over the years on both the Grand Canal and the River Shannon.   One such tragedy occurred on Sunday,1 December 1946. The Grand Canal Company barge 45M was on a voyage from Dublin to Limerick with a cargo of stout and was being towed across Lough Derg by the tug-boat St.James. At a point between Portroe and Killaloe, said to be the most treacherous part of the River Shannon, they were struck by a fierce gale. The buffeting from the high wind caused the cargo in the hold of 45M to shift. The Tow-rope snapped as large waves swept across its deck. The crew of the St.James could do nothing to help as the barge heeled over, throwing the crew into the water, and sank. Three of the four liveswere lost.  29 years later, after locating where the barge lay, Donnacha Kennedy and his crew, on JACARANDA (originally 42M) succeeded in bringing it to the surface. The occasion was suitably marked by a toast to those who helped raise 45M . Unfortunately the 1900 gallons of stout in the hold had not matured in the 29 years under water.   The original [Bolinder](bolinderengines.htm)1912 vintage engine started and ran , without an overhaul or even complete dismantling, indeed everlasting credit was due to the Swedish engineer of the single cylinder hot-bulb semi-diesel. The Tut-Tut sound of it has a soothing effect on anyone who hears it for the first time. For those who remember the barges working on the Grand Canal, its sound can release a host of memories of a time that passed all too quickly.  The restored 45M is a fitting memorial to the men who lost their lives and who worked the Grand Canal.  DONNACHA KENNEDY | | |

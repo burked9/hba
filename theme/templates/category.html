@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}{{ category }} | {{ SITENAME }}{% endblock %}
+{% block content %}
+<nav class="breadcrumb">
+  <a href="{{ SITEURL }}/">Vessels Register</a> &raquo; <span>{{ category }}</span>
+</nav>
+<h2>{{ category }} ({{ articles | length }} Vessels)</h2>
+<div class="vessel-cards-grid">
+  {% for article in articles | sort(attribute='reg_number') %}
+  <div class="vessel-card">
+    {% if article.hero_image %}
+    <a href="{{ SITEURL }}/{{ article.url }}" class="card-img-link">
+      <img src="{{ SITEURL }}{{ article.hero_image }}" alt="{{ article.title }}" loading="lazy" />
+    </a>
+    {% endif %}
+    <div class="card-body">
+      <h3><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
+      <p class="card-specs">
+        {% if article.year_built %}<strong>Built:</strong> {{ article.year_built }}{% endif %}
+        {% if article.built_by %} &bull; {{ article.built_by }}{% endif %}
+      </p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+{% endblock %}

@@ -1,0 +1,78 @@
+Title: Report to GCC Directors on Screw Steam Boats - 1852
+Date: 2009-03-19
+Modified: 2009-05-16
+Slug: archive/vessels/boatyards-boatbuilders-and-engines/report-to-gcc-directors-on-screw-steam-boats-1852
+Save_as: archive/vessels/boatyards-boatbuilders-and-engines/report-to-gcc-directors-on-screw-steam-boats-1852/index.html
+URL: archive/vessels/boatyards-boatbuilders-and-engines/report-to-gcc-directors-on-screw-steam-boats-1852/index.html
+Template: page
+Category: Boatyards, Boatbuilders and Engines
+Reg_Number: Report to GCC Directors on Screw Steam Boats
+Built_By: 
+Year_Built: 1852
+Hero_Image: /images/vessels/b-barge-line-up-2003.jpg
+Wayback_URL: https://web.archive.org/web/20120510122348/http://heritageboatassociation.ie:80/cms/index.php?option=com_content&task=view&id=205&Itemid=64
+
+[&larr; Back to Boatyards, Boatbuilders and Engines]({filename}/archive/vessels/boatyards-boatbuilders-and-engines/index.md) | [&larr; Master Vessels Register]({filename}/archive/vessels/index.md)
+
+### Technical Details
+
+| Specification | Detail |
+| :--- | :--- |
+| **Registration / Name** | Report to GCC Directors on Screw Steam Boats |
+| **Category** | Boatyards, Boatbuilders and Engines |
+| **Year Built** | 1852 |
+
+---
+
+### Vessel History
+
+REPORT TO THE DIRECTORS OF THE GRAND CANAL COMPANY, ON SCREW STEAM BOATS.
+
+GENTLEMEN, I regret exceedingly that from various causes, over which I had no control, I have been prevented until now from reporting on the two steam boats in use on your canal, although the experiments made with them have been completed sometime ; but I hope my preliminary examination and report on these two boats has prevented the inconvenience that would otherwise have arisen from this delay, as it has enabled you to order a boat which, I have no doubt, will be found more suited to the traffic on your canal than either of those now employed upon it. I do not, however, claim any merit for the plans or arrangement of the machinery intended for this boat, all of which were prepared by your own officers, and whatever merit it may have is entirely due to them ; all that I could do was to satisfy myself from the experiments and examination of the two boats, which was the best constructed, and, under similar circumstances, produced the best effects, and to recommend to you that form of construction for the boat you were about to build, which from these experiments I was enabled to do with perfect confidence ; at the same time I do not by any means pretend to say that a better form of boat, and more efficient machinery, may not be hereafter constructed, when more experience and practical knowledge shall be obtained by the working of these boats ; for, when locomotive engines were first introduced upon railways, they were very much inferior to those now used. Almost every one which has been since made up to the present time has been an improvement on those previously constructed, either in strength, efficiency, or economy of working ; and I have no doubt but similar, or at all events very great and important improvements will be made in steam boats for canal purposes, when they become to be more generally used and more attention shall be paid to them by practical men.
+
+In order, however, to enable me to report on the queries put to me by your Secretary, I thought it necessary to make a careful examination of the two boats at present at work on your canal, and also to ascertain by experiment the power and capabilities of each of these boats under different circumstances, as well in reference to the load they could carry as to the load they could haul with different velocities. In making this examination and experiment I was assisted by your excellent Secretary and intelligent Superintendent of Works, Mr. Talbot, who gave me every information, and aided me in every way in their power.
+
+The first of these boats which I examined, called No. 2 Boat, was constructed by Messrs. Robinsons and Russell, of London. It is built of iron, without ribs, is 60 feet long, and 12 feet beam, and is propelled by one screw, driven by an engine of the following dimensions : boiler 2 feet 6 inches diameter, containing 74 tubes of 1.75 inches diameter each ; the length of the tubes is 4 feet 6 inches, with 2 oscillating cylinders of 5.25 inches diameter, and 15.625 inches length of stroke. Pressure 50 Ibs, and calculated to make 120 strokes per minute ; the thickness of boiler 0.375, with 5 stays of round 0.875-inch iron to strengthen the steam chambers. The diameter of the screw is 4 feet, width of blade 1-11.125; pitch of screw 6 feet, stern post 5.75 inches below keel level.
+
+No 1 Boat was built at the Ringsend Works, and the engines and machinery were made and put into her by Mr. Inshaw, of Birmingham, who has constructed several steam boats used on English Canals. The length of this boat is 60 feet, and its width 12 feet. The boiler is 4 feet 6 inches in diameter, containing 48 tubes of 2.5 inches diameter, and 6 feet long; the cylinders are 7 inches in diameter; length of stroke 18 inches, and calculated to make 120 strokes per minute, the pressure being 50 Ibs. The boat is propelled by two screws, 4 feet pitch, 3 feet in diameter, and 2 feet long, placed at each side of the stern post, worked with bevelled gear and two-fold multiplying power. These screws are what is usually termed right and left handed ; they consequently work in opposite directions. This is an improvement first adopted by Mr. Inshaw, and is found to be most important as to the working effect. Any person who has attentively watched the effect of a single screw, will have observed that the current of water thrown back from it does not take a direction in a right line with the boat, but in one at a diagonal with that line. By Mr. Inshaw's arrangement of the two screws, the two diagonal lines being in the direction of the streams from the two screws, are thrown inwards, meeting immediately behind the rudder. The resultant is necessarily a straight line of current in the centre of the canal, manifestly advantageous as regards the action of the screws, and strikingly so as regards the facility with which the boat is steered, and the power of the rudder.
+
+This principle of construction appears to answer very much better than that of No. 2 Boat, with one screw, for it is capable of being stopped and the motion reversed with much greater ease than the other, and it steers stern foremost almost as well as when running forward, which is a most important and essential requisite in any steam boat employed in Canal traffic, where obstacles and interruptions are so frequent, and which might be attended with danger, if the power of reversing was not easy and effective : in this respect it is very superior to the boat with one screw, which does not steer at all when the motion is reversed, but runs direct across the Canal to one side or other, according to the position of the boat at the moment of reversing. This boat (No. 2) was engaged by the builders to carry 40 tons gross, to be furnished with engines of 12 -horse power, (nominal,) consisting of two oscillating cylinders, and a tubular boiler, with feed pipes and reversing gear, and capable of going with that load at about 5 to 6 miles per hour, and of propelling itself and another boat at the rate of about 3 Irish miles, or 3.75 English miles, per hour. This agreement does not however state what load the boat to be propelled or towed was to carry, but it would appear to be the same as in the steam boat, that is 40 tons gross. By the experiments made with this boat, it is evident that she falls very much short of this performance, for, with 41 tons, she went only at the rate of 3.5 miles per hour, instead of 5 to 6 miles ; and when towing a boat loaded with 52 tons, she went at a rate of only 2.25 miles per hour, instead of 3.75. In fact, when loaded with 20 tons only, she went at the rate of 4 miles only per hour ; this discrepancy would appear to arise from want of power in the engines, for it does not appear that they are more than 8-horse power, instead of 12 ; it may, however, be possible, that other circumstances connected with the form or arrangement of the screw may be the cause of the want of speed, but want of power in the engine is the most apparent defect ; before, however, drawing any conclusion from the experiments referred to, it will be proper to describe them.
+
+The first set of the experiments was made on the 24th of April ; the weather was cold, but there was little or no wind to affect the free movement of the boats.
+
+*First Experiment*, 24th April, 1851, was made with Steam Boat No. 2, loaded with 41 tons. The distance of half- a- mile (measured) was run in 8' 25", being at the rate of 3.56 miles per hour. During this experiment the pressure on the boiler was 50lbs. and the average number of strokes was 102.
+
+*Second Experiment*. In this experiment the boat was loaded with 41 tons as before, and a barge was attached to it by a tow-rope. This barge was loaded with 52 tons : the pressure was 42lbs., and the average number of strokes per minute was 87. The same distance as before was run in 13' 6", or at the rate of 2.29 miles per hour.
+
+*Third Experiment*. In this experiment two barges were attached to the steam boat ; one was loaded with 53 tons, the other with 30 tons, besides the 41 tons in the steam boat, in all 124 tons. The pressure on the boiler was 50lbs. as in the first experiment, and the average number of strokes of the piston was 98, whilst the time occupied in passing over the same space was 14' 40", or at the rate of 2.05 miles per hour.
+
+On the 26th April the following experiments were made with the same boat.
+
+*First Experiment*. The boat was loaded with 20 tons, the pressure was 50lbs. on the safety valve, the average number of strokes was 100 per minute, and the same distance of half-a-mile was run in 7' 30", or at the rate of 4.0 miles per hour.
+
+*Second Experiment*. In this experiment one barge, loaded with 50 tons, was attached to the steam boat loaded with 20 tons ; the pressure as before was 50 lbs., and the average number of strokes per minute was 90, whilst the same space ran over required 12' 20", or at the rate of 2.43 miles per hour.
+
+*Third Experiment*. In this experiment two boats loaded with 50 tons each were attached to the steam boat loaded with 20 tons, in all 120 tons of goods ; the pressure was 50 lbs., the average number of strokes was 94, and the space was passed over in 12' 55", which was at the rate of 2.31 miles per hour.
+
+On the 5th of May the following experiments were made with No. 1 steam boat, having two screw propellers.
+
+*First Experiment*. The boat was loaded with 20 tons of goods ; the same half-mile distance was run over as in the former experiments with No. 2 boat ; the pressure was 45 Ibs., the number of strokes averaged 110 per minute; the distance was run in 6' 41", which was at the rate of 4.49 miles per hour.
+
+*Second Experiment*. In this experiment a barge carrying 50 tons was attached to the steam boat, which was loaded with 20 tons ; the pressure was 49 lbs. as before ; the average number of strokes per minute was 101, and the time was 9' 12", which was at the rate of 3.26 miles per hour.
+
+*Third Experiment*. In this experiment three boats were attached to the steam boat — one was loaded with 50, the second with 27 tons, and the third with 34 tons, in all 131 tons, including the 20 tons in the steam boat; the pressure was 49 Ibs., the average number of strokes per minute was 96, and the time occupied was 10' 58", which was at the rate of 2.73 miles per hour.
+
+One fact, but certainly a most important one, has been established by these experiments, and that is, that a very much greater and useful effect is produced by hauling than by carrying. This fact was exemplified in every experiment that was made, though it was more apparent in one of the boats than the other, as will be seen by reference to the experiments; it also appears that one form of boat and machinery is less affected in speed than the other by a proportional increase of weight hauled than carried ; from this, it is evident that the form of boat and machinery most suitable for carrying goods will differ from the form of boat and machinery suitable for haulage.
+
+The barges and boats on your Canal are much too large, heavy and unwieldly ; they are a heavy load in themselves, and require considerable power to move them, even at a slow rate, when empty ; they are also formed as if they were to be employed as sailing barges, similar to those on the Thames and other rivers : this is a very great mistake and quite unsuited to Canal navigation. If the boats were built 60 feet long, 6 feet 6 inches wide, with upright sides, and upright cornered bows, which would admit two of them to enter a lock at the same time, a great amount of saving would be effected on your Canal in the power required to haul such boats, as compared with those now in use, for I have no doubt that six of those boats carrying 35 tons each, would be as easily hauled as two of the present boats 50 tons each or in the ratio of 210 to 100 and that such a steam boat as No. 1, at present in use, would be enabled to haul these six boats carrying 210 tons of goods at the rate of three miles an hour, and carrying at the same time 20 tons of goods, besides the 210 tons hauled.
+
+I would, therefore, strongly recommend you to have two such boats built, and if you found that the saving in power required for hauling was what I have stated, it would be judicious to have all new boats built on the same plan. I am well aware that it is very difficult to get parties long accustomed to a particular form of boat or carriage to adopt a different one ; but I am convinced the advantages of the light and narrow boat would be so apparent that it would in a short time be universally used in Canals in this country, as such boats are at present used in most of the Canals in England and Scotland ; and in any future engines that may be ordered for your Canal, I would recommend that the fire-box should be made as large as the construction of the boat will admit of, and that the draught up the flue be as moderate as possible, as more suitable to a turf fire than one of coke, for there cannot be a doubt, but turf or peat fuel will answer every purpose of working steam boats on the Canal, and will be very much cheaper than either coal or coke. My replies to the queries put to me will form the subject of a further report, which shall be submitted with as little delay as in my power.
+
+JOHN MACNEILL
+
+This is from:
+
+Appendix to ***Rudimentary Treatise on Marine Engines and Steam Vessels; together with Practical Remarks on the Screw and Propelling Power as used in the Royal and Merchant Navy*** by Robert Murray CE, 2nd edition, John Weale, London, 1852. Found by Brian Goggin.
+
+---
+*Archival Provenance: Preserved from the Heritage Boat Association CMS (`Article ID 205`), last updated 2009-05-16. [View Wayback Machine Snapshot &nearr;](https://web.archive.org/web/20120510122348/http://heritageboatassociation.ie:80/cms/index.php?option=com_content&task=view&id=205&Itemid=64)*
